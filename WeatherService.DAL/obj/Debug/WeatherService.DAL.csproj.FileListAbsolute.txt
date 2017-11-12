@@ -1,0 +1,11 @@
+D:\.NET FrameWork Studay\WeatherService\WeatherService.DAL\bin\Debug\WeatherService.DAL.dll.config
+D:\.NET FrameWork Studay\WeatherService\WeatherService.DAL\bin\Debug\WeatherService.DAL.dll
+D:\.NET FrameWork Studay\WeatherService\WeatherService.DAL\bin\Debug\WeatherService.DAL.pdb
+D:\.NET FrameWork Studay\WeatherService\WeatherService.DAL\bin\Debug\Dapper.dll
+D:\.NET FrameWork Studay\WeatherService\WeatherService.DAL\bin\Debug\MySql.Data.dll
+D:\.NET FrameWork Studay\WeatherService\WeatherService.DAL\bin\Debug\WeatherService.Model.dll
+D:\.NET FrameWork Studay\WeatherService\WeatherService.DAL\bin\Debug\WeatherService.Model.pdb
+D:\.NET FrameWork Studay\WeatherService\WeatherService.DAL\bin\Debug\Dapper.xml
+D:\.NET FrameWork Studay\WeatherService\WeatherService.DAL\obj\Debug\WeatherService.DAL.csprojResolveAssemblyReference.cache
+D:\.NET FrameWork Studay\WeatherService\WeatherService.DAL\obj\Debug\WeatherService.DAL.dll
+D:\.NET FrameWork Studay\WeatherService\WeatherService.DAL\obj\Debug\WeatherService.DAL.pdb

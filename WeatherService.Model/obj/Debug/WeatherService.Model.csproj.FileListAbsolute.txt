@@ -1,0 +1,5 @@
+D:\.NET FrameWork Studay\WeatherService\WeatherService.Model\bin\Debug\WeatherService.Model.dll
+D:\.NET FrameWork Studay\WeatherService\WeatherService.Model\bin\Debug\WeatherService.Model.pdb
+D:\.NET FrameWork Studay\WeatherService\WeatherService.Model\obj\Debug\WeatherService.Model.csprojResolveAssemblyReference.cache
+D:\.NET FrameWork Studay\WeatherService\WeatherService.Model\obj\Debug\WeatherService.Model.dll
+D:\.NET FrameWork Studay\WeatherService\WeatherService.Model\obj\Debug\WeatherService.Model.pdb
